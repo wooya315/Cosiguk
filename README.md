@@ -1,3 +1,4 @@
+본 프로젝트는 https://yeardream-gitlab.elice.io/yeardream-project/project-10/cosiguk-where-you-go 에서 파일 정리본만 들고 온것입니다.
 # (코시국에 어디를 가나요)
 
 - 코로나가 발생한 이후로 지하철과 버스 이용량이 어떻게 변화하였는지 데이터 분석 및 시각화를 통해 사용자에게 인사이트를 제공하는 사이트
